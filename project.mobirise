@@ -55,7 +55,7 @@
     "uniqCompNum": 23,
     "versionPublish": "5.0.17",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/shadow-warrior-2-logo-128x149.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -67,12 +67,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "PAYDAY 2: Shadow Warrior Pack - Unofficial",
+        "title": "PAYDAY 2: Lo Wang Character Pack",
         "meta_descr": "The Way of the Wang is Long and Hard ...",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/shadow%20warrior-1900x1409.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/wang%20psd%20import-1920x1080.png"
       },
       "components": [
         {
