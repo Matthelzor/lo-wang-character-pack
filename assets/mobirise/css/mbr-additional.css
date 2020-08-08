@@ -21,11 +21,11 @@ body {
 }
 .display-4 {
   font-family: 'AgencyFBBoldCondensed';
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 2.4rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -60,9 +60,9 @@ body {
     line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -1066,7 +1066,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-s6U8BQQ5hY H1 {
-  color: #ffffff;
+  color: #f8691a;
 }
 .cid-s6TCePxYla {
   background-image: url("../../../assets/images/heropiece-1328x985.jpeg");
@@ -1328,11 +1328,237 @@ section.lazy-placeholder:after {
 .cid-s6TGI4PIcu P {
   text-align: left;
 }
-.cid-s6TMSz7ZA4 {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #000000;
+.cid-s6ZSHOwV7C {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/heropiece-1328x985.jpg");
 }
-.cid-s6TMSz7ZA4 P {
+.cid-s6ZSHOwV7C P {
   color: #767676;
+}
+.cid-s6ZSHOwV7C H1 {
+  color: #149dcc;
+}
+.cid-s6ZT7Bn4Ju {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/msk-1-2000x1125.jpg");
+}
+.cid-s6ZT7Bn4Ju .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-s6ZT7Bn4Ju .mbr-section-title {
+  text-align: left;
+  color: #f7ed4a;
+}
+.cid-s6ZT7Bn4Ju .mbr-text,
+.cid-s6ZT7Bn4Ju .mbr-section-btn {
+  text-align: left;
+}
+.cid-s708IkuGPX {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s708IkuGPX .mbr-overlay {
+  z-index: 1;
+}
+.cid-s708IkuGPX .carousel-caption {
+  bottom: 40px;
+}
+.cid-s708IkuGPX .carousel-control .icon-next,
+.cid-s708IkuGPX .carousel-control .icon-prev {
+  margin-top: -18px;
+  font-size: 40px;
+  line-height: 27px;
+}
+.cid-s708IkuGPX .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-s708IkuGPX .container .carousel-control {
+    margin-bottom: 0;
+  }
+  .cid-s708IkuGPX .content-slider-wrap {
+    width: 100% !important;
+  }
+}
+.cid-s708IkuGPX .container .carousel-indicators {
+  margin-bottom: 3px;
+}
+.cid-s708IkuGPX .carousel-control {
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  margin-top: -1.5rem;
+  font-size: 35px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.cid-s708IkuGPX .carousel-control.carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s708IkuGPX .carousel-control.carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s708IkuGPX .carousel-control .mbr-iconfont {
+  font-size: 1.5rem;
+}
+@media (max-width: 767px) {
+  .cid-s708IkuGPX .carousel-control {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-s708IkuGPX .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 1.5rem !important;
+}
+.cid-s708IkuGPX .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
+}
+.cid-s708IkuGPX .carousel-indicators li.active,
+.cid-s708IkuGPX .carousel-indicators li:hover {
+  opacity: 0.9;
+}
+.cid-s708IkuGPX .carousel-indicators li::after,
+.cid-s708IkuGPX .carousel-indicators li::before {
+  content: none;
+}
+.cid-s708IkuGPX .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-s708IkuGPX .carousel-indicators {
+    display: none !important;
+  }
+}
+.cid-s708IkuGPX H5 {
+  color: #c4bc3b;
+}
+.cid-s708IkuGPX P {
+  color: #ffffff;
+}
+.cid-s70MgDCZ6k {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/player-1328x985.jpg");
+}
+.cid-s70MgDCZ6k P {
+  color: #767676;
+}
+.cid-s70MgDCZ6k H1 {
+  color: #c7ab27;
+}
+.cid-s71mvAtpVH {
+  padding-top: 105px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/lemon-2000x1125.jpg");
+}
+.cid-s71mvAtpVH .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-s71mvAtpVH .mbr-section-title {
+  text-align: right;
+  color: #f7ed4a;
+}
+.cid-s71mvAtpVH .mbr-text,
+.cid-s71mvAtpVH .mbr-section-btn {
+  text-align: right;
+}
+.cid-s71Ape4Ta0 {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/player-1328x985.jpg");
+}
+.cid-s71Ape4Ta0 P {
+  color: #767676;
+}
+.cid-s71Ape4Ta0 H1 {
+  color: #c7ab27;
+}
+.cid-s71BuitWvq {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.cid-s71BuitWvq .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s71BuitWvq .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s71BuitWvq .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s71BuitWvq .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s71BuitWvq .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-s71BuitWvq .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s71BuitWvq .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-s71BuitWvq .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s71BuitWvq .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
