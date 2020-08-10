@@ -1332,6 +1332,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6TGI4PIcu P {
   text-align: left;
+  color: #ffffff;
 }
 .cid-s6ZSHOwV7C {
   padding-top: 30px;
@@ -1344,9 +1345,13 @@ section.lazy-placeholder:after {
 .cid-s6ZSHOwV7C H1 {
   color: #149dcc;
 }
+.cid-s6ZSHOwV7C .mbr-text,
+.cid-s6ZSHOwV7C .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-s6ZT7Bn4Ju {
-  padding-top: 90px;
-  padding-bottom: 60px;
+  padding-top: 120px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/msk-1-2000x1125.jpg");
 }
 .cid-s6ZT7Bn4Ju .mbr-section-subtitle {
@@ -1466,8 +1471,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s70MgDCZ6k {
-  padding-top: 75px;
-  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/heropiece-1328x985.jpg");
 }
 .cid-s70MgDCZ6k P {
@@ -1475,6 +1480,10 @@ section.lazy-placeholder:after {
 }
 .cid-s70MgDCZ6k H1 {
   color: #00c0fb;
+}
+.cid-s70MgDCZ6k .mbr-text,
+.cid-s70MgDCZ6k .mbr-section-btn {
+  color: #c4bc3b;
 }
 .cid-s71mvAtpVH {
   padding-top: 105px;
@@ -1493,9 +1502,38 @@ section.lazy-placeholder:after {
 .cid-s71mvAtpVH .mbr-section-btn {
   text-align: right;
 }
+.cid-s7goIIHqq1 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/player-1328x985.jpg");
+}
+.cid-s7goIIHqq1 P {
+  color: #767676;
+}
+.cid-s7goIIHqq1 H1 {
+  color: #ffffff;
+}
+.cid-s7gqXshD6d {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/wang-mp3-1280x1080.jpg");
+}
+.cid-s7gqXshD6d .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-s7gqXshD6d .mbr-section-title {
+  text-align: left;
+  color: #ff6900;
+}
+.cid-s7gqXshD6d .mbr-text,
+.cid-s7gqXshD6d .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-s71Ape4Ta0 {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/player-1328x985.jpg");
 }
 .cid-s71Ape4Ta0 P {
@@ -1503,6 +1541,10 @@ section.lazy-placeholder:after {
 }
 .cid-s71Ape4Ta0 H1 {
   color: #c7ab27;
+}
+.cid-s71Ape4Ta0 .mbr-text,
+.cid-s71Ape4Ta0 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-s71BuitWvq {
   padding-top: 0px;
@@ -1577,6 +1619,10 @@ section.lazy-placeholder:after {
 }
 .cid-s74i8o6LI4 H1 {
   color: #00c0fb;
+}
+.cid-s74i8o6LI4 .mbr-text,
+.cid-s74i8o6LI4 .mbr-section-btn {
+  color: #f7ed4a;
 }
 .cid-s74i3ZzhMj {
   padding-top: 135px;
@@ -1654,6 +1700,9 @@ section.lazy-placeholder:after {
   padding-top: 15px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/sword-1328x985.jpg");
+}
+.cid-s74NNuzDwy .media-container-row .mbr-text P {
+  text-align: center;
 }
 .cid-s74dfAQ33t .navbar {
   padding: .5rem 0;
